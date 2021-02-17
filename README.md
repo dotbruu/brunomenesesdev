@@ -24,7 +24,7 @@ Hello my name is Bruno Meneses, I'm a <strong>FullStack developer</strong>.
 
 
 <p align="left">
-  💼 Tools: <strong>VSCODE, Gulp, PhotoShop, Figma, Netlify, Git and GitHub.</strong>
+  💼 Tools
 </p>
 
 <p align="left">
