@@ -6,7 +6,7 @@ Hello my name is Bruno Meneses, I'm a <strong>FullStack developer</strong>.
 </p>
 
 <p align="left">
-  🦄 Skills
+  🦄  Skills
 </p>
 <p align="left">
   <img src="https://icon-icons.com/icons2/2108/PNG/72/javascript_icon_130900.png"/>
@@ -24,7 +24,7 @@ Hello my name is Bruno Meneses, I'm a <strong>FullStack developer</strong>.
 
 
 <p align="left">
-  💼 Tools
+  💼  Tools
 </p>
 
 <p align="left">
