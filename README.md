@@ -1,16 +1,45 @@
-### Hi there 👋
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-<!--
-**brunomenesesdev/brunomenesesdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> 
 
-Here are some ideas to get you started:
+Hello my name is Bruno Meneses, I'm a <strong>FullStack developer</strong>. 
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  🦄 Skills
+</p>
+<p align="left">
+  <img src="https://icon-icons.com/icons2/2108/PNG/72/javascript_icon_130900.png"/>
+  
+  <img src="https://icon-icons.com/icons2/2107/PNG/72/file_type_typescript_official_icon_130107.png" />
+
+  <img src="https://icon-icons.com/icons2/2415/PNG/72/nodejs_plain_logo_icon_146409.png"/>
+  
+  <img src="https://icon-icons.com/icons2/2415/PNG/72/react_original_logo_icon_146374.png"/>
+  
+  <img src="https://icon-icons.com/icons2/2415/PNG/72/react_original_logo_icon_146374.png"/>
+  
+  <img src="https://icon-icons.com/icons2/2667/PNG/72/folder_postgres_icon_161286.png"/>
+  
+  <img src="https://icon-icons.com/icons2/2667/PNG/72/folder_postgres_icon_161286.png"/>
+</p>  
+
+
+<p align="left">
+  💼 Ferramentas: <strong>VSCODE, Gulp, PhotoShop, Figma, Netlify, Git and GitHub.</strong>
+</p>
+
+<p align="left">
+  💌 Se você deseja realizar um projeto comigo (ou bater papo), não hesite em me enviar uma mensagem:: ⤵️
+</p>
+
+<p align="left">
+  <a href="https://www.instagram.com/iuricode/" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/iuricoding/"/></a>
+  
+  <a href="https://www.linkedin.com/in/iuricode" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iuricode" /></a>
+
+  <a href="https://www.facebook.com/exudojazz/" alt="Facebook">
+  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/exudojazz/"/></a>
+</p>  
