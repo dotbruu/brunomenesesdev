@@ -17,8 +17,6 @@ Hello my name is Bruno Meneses, I'm a <strong>FullStack developer</strong>.
   
   <img src="https://icon-icons.com/icons2/2415/PNG/72/react_original_logo_icon_146374.png"/>
   
-  <img src="https://icon-icons.com/icons2/2415/PNG/72/react_original_logo_icon_146374.png"/>
-  
   <img src="https://icon-icons.com/icons2/2667/PNG/72/folder_postgres_icon_161286.png"/>
   
   <img src="https://icon-icons.com/icons2/2415/PNG/72/mongodb_original_logo_icon_146424.png"/>
