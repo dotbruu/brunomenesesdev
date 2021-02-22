@@ -9,7 +9,7 @@ Hello my name is Bruno Meneses, I'm a <strong>FullStack developer</strong>.
   🦄  Skills
 </p>
 <p align="left">
-  <img src="https://icon-icons.com/icons2/2108/PNG/34/javascript_icon_130900.png"/>
+  <img src="https://icon-icons.com/icons2/2108/PNG/72/javascript_icon_130900.png"/>
   
   <img src="https://icon-icons.com/icons2/2107/PNG/72/file_type_typescript_official_icon_130107.png" />
 
