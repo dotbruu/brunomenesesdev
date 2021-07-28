@@ -1,9 +1,9 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, my name is Bruno Meneses </h1>
-<h5 align="center">I am Javascript Developer</h5>
+<h4 align="center">I am Javascript Developer</h4>
 
 
 <p align="left">
-  😎 Languages and Tools:
+  😎  Languages and Tools:
 </p>
 <p align="left"> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
