@@ -3,7 +3,7 @@
 <h4 align="left">I am Javascript Developer</h4>
 
 <p align="right">
-<img src="https://i.ibb.co/yF74YJM/Grupo-14.png" alt="javascript" height="350"/>
+<img align="right" src="https://i.ibb.co/yF74YJM/Grupo-14.png" alt="javascript" height="350"/>
 </p>
 
 </p>
