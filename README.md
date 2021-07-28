@@ -6,8 +6,9 @@
 <h4 align="left">I am Javascript Developer</h4>
 </p>
 <p align="left">
-<img src="https://i.ibb.co/RS6phpM/Grupo-19.png" alt="javascript"/>
-</p>
-<p align="left">
 <img src="https://i.ibb.co/vsXpZbM/Grupo-15.png" alt="javascript"/>
 </p>
+<p align="left">
+<img src="https://i.ibb.co/RS6phpM/Grupo-19.png" alt="javascript"/>
+</p>
+
