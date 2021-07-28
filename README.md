@@ -2,14 +2,14 @@
 <img src="https://i.ibb.co/yF74YJM/Grupo-14.png" alt="javascript" height="350"/>
 </p>
 <p align="left">
-<h2 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, my name is Bruno Meneses </h2>
-<h4 align="center">I am Javascript Developer</h4>
+<h2>Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, my name is Bruno Meneses </h2>
+<h4>I am Javascript Developer</h4>
 </p>
 <p align="left">
 <img src="https://i.ibb.co/RS6phpM/Grupo-19.png" alt="javascript"/>
 </p>
 <p align="left">
-<img src="https://i.ibb.co/vsXpZbM/Grupo-15.png" alt="javascript" "/>
+<img src="https://i.ibb.co/vsXpZbM/Grupo-15.png" alt="javascript"/>
 </p>
 
 <p align="left">
