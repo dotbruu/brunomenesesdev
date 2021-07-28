@@ -1,8 +1,14 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, my name is Bruno Meneses </h1>
-<h4 align="center">I am Javascript Developer</h4>
-
 <p align="right">
 <img src="https://i.ibb.co/yF74YJM/Grupo-14.png" alt="javascript" height="350"/>
+</p>
+
+<h2 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, my name is Bruno Meneses </h2>
+<h4 align="center">I am Javascript Developer</h4>
+<p align="left">
+<img src="![image](https://user-images.githubusercontent.com/63132506/127410314-8768848c-6e8c-4411-b1f1-5168ca124dc1.png)" alt="javascript" height="350"/>
+</p>
+<p align="left">
+<img src="https://i.ibb.co/vsXpZbM/Grupo-15.png" alt="javascript" height="350"/>
 </p>
 
 <p align="left">
