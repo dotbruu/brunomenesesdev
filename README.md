@@ -11,9 +11,9 @@
 <p align="left">
 <img src="https://i.ibb.co/RS6phpM/Grupo-19.png" alt="javascript"/>
 </p>
-<p align="right">
+<p align="left">
   <a href="www.linkedin.com/in/dotbruu">
-    <img align="right" src="https://i.ibb.co/yF74YJM/Grupo-14.png" alt="javascript" height="380"/>
+    <img align="right" src="https://user-images.githubusercontent.com/63132506/127411471-c5b10f72-958a-43bb-bfd5-4695b204cb5a.png" alt="javascript" height="380"/>
    <a/>
 </p>
 
