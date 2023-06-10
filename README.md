@@ -1,14 +1,9 @@
-<p align="left">
-<p align="right">
-  <img align="right" src="https://i.ibb.co/yF74YJM/Grupo-14.png" alt="javascript" height="380"/>
-</p>
-<h3 align="left">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, my name is Bruno Meneses </h3>
-<h4 align="left">I am Javascript Developer</h4>
-</p>
-<p align="left">
-<img src="https://i.ibb.co/vsXpZbM/Grupo-15.png" alt="javascript"/>
-</p>
-<p align="left">
-<img src="https://i.ibb.co/RS6phpM/Grupo-19.png" alt="javascript"/>
-</p>
+Hello 👋!
 
+My name is Bruno Meneses, and I am a full stack software developer specializing in programming languages like JavaScript and TypeScript. I have a passion for creating a better future through technology.
+
+As a developer, I have a strong experience in NodeJS 💪 and advocate for the principles of scalable architecture. I am constantly seeking innovative technological solutions that can transform how companies interact with their customers and maximize their results.
+
+I am dedicated to creating high-quality solutions that help companies stand out in their markets. I firmly believe in the power of technology to drive business growth, which is why I strive to develop innovative and scalable solutions that meet the needs of clients.
+
+Software architecture 📝 is an area that fascinates me, and I make it a point to apply best practices in my daily work to make systems more robust and easy to maintain.
