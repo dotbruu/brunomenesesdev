@@ -1,3 +1,5 @@
+[https://i.ibb.co/2d5mDT1/Design-sem-nome-4.png](cover)
+
 Hello 👋!
 
 My name is Bruno Meneses, and I am a full stack software developer specializing in programming languages like JavaScript and TypeScript. I have a passion for creating a better future through technology.
