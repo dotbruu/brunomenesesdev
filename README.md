@@ -1,4 +1,4 @@
-[](https://i.ibb.co/2d5mDT1/Design-sem-nome-4.png)
+![](https://i.ibb.co/2d5mDT1/Design-sem-nome-4.png)
 
 Hello 👋!
 
